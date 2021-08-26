@@ -1,0 +1,31 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 26 Aug 2021 15:03:13 at https://limpidwallet.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://limpidwallet.com/ -O1 "C:\My Web Sites\limpidwallet" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:03:42	Error: 	"Not Found" (404) at link https://limpidwallet.com/cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/css/simple-line-icons.css (from https://limpidwallet.com/)
+15:03:42	Error: 	"Not Found" (404) at link https://limpidwallet.com/www.google.com/recaptcha/api.js (from https://limpidwallet.com/)
+15:03:58	Error: 	"Not Found" (404) at link https://limpidwallet.com/code.jquery.com/jquery-3.2.1.slim.min.js (from https://limpidwallet.com/)
+15:03:58	Error: 	"Not Found" (404) at link https://limpidwallet.com/cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js (from https://limpidwallet.com/)
+15:03:58	Error: 	"Not Found" (404) at link https://limpidwallet.com/maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js (from https://limpidwallet.com/)
+15:03:58	Error: 	"Not Found" (404) at link https://limpidwallet.com/ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.minf27d.js?v=2.0.4 (from https://limpidwallet.com/)
+15:03:58	Error: 	"Not Found" (404) at link https://limpidwallet.com/maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.minf27d.js?v=2.0.4 (from https://limpidwallet.com/)
+15:03:58	Error: 	"Not Found" (404) at link https://limpidwallet.com/justbtc.ideah.ru/assets/themes/escrow/img/icon/ok.png (from https://limpidwallet.com/how-it-works.html)
+15:03:58	Error: 	"Not Found" (404) at link https://limpidwallet.com/justbtc.ideah.ru/assets/themes/escrow/img/dispute2.png (from https://limpidwallet.com/how-it-works.html)
+15:03:58	Error: 	"Not Found" (404) at link https://limpidwallet.com/justbtc.ideah.ru/assets/themes/escrow/img/icon/space.png (from https://limpidwallet.com/developers.html)
+15:03:58	Error: 	"Not Found" (404) at link https://limpidwallet.com/justbtc.ideah.ru/assets/themes/escrow/img/icon/ipn.png (from https://limpidwallet.com/developers.html)
+15:03:58	Error: 	"Not Found" (404) at link https://limpidwallet.com/justbtc.ideah.ru/assets/themes/escrow/img/icon/tool.png (from https://limpidwallet.com/developers.html)
+15:03:58	Error: 	"Not Found" (404) at link https://limpidwallet.com/justbtc.ideah.ru/assets/themes/escrow/img/icon/mac-merchant.png (from https://limpidwallet.com/developers.html)
+15:03:58	Error: 	"Not Found" (404) at link https://limpidwallet.com/justbtc.ideah.ru/assets/themes/account/img/pay-icon/paypal.png (from https://limpidwallet.com/developers.html)
+15:03:58	Error: 	"Not Found" (404) at link https://limpidwallet.com/justbtc.ideah.ru/assets/themes/account/img/pay-icon/visa.png (from https://limpidwallet.com/developers.html)
+15:03:58	Error: 	"Not Found" (404) at link https://limpidwallet.com/justbtc.ideah.ru/assets/themes/account/img/pay-icon/btc.png (from https://limpidwallet.com/developers.html)
+15:03:58	Error: 	"Not Found" (404) at link https://limpidwallet.com/justbtc.ideah.ru/assets/themes/account/img/pay-icon/pm.png (from https://limpidwallet.com/developers.html)
+15:03:58	Error: 	"Not Found" (404) at link https://limpidwallet.com/justbtc.ideah.ru/assets/themes/account/img/pay-icon/advcash.png (from https://limpidwallet.com/developers.html)
+15:03:58	Error: 	"Not Found" (404) at link https://limpidwallet.com/justbtc.ideah.ru/assets/themes/account/img/pay-icon/swift.png (from https://limpidwallet.com/developers.html)
+15:03:58	Error: 	"Not Found" (404) at link https://limpidwallet.com/register.php (from https://limpidwallet.com/contact.php)
+
+HTTrack Website Copier/3.49-2 mirror complete in 45 seconds : 43 links scanned, 22 files written (1123535 bytes overall) [847125 bytes received at 18825 bytes/sec], 440980 bytes transferred using HTTP compression in 15 files, ratio 28%
+(20 errors, 0 warnings, 0 messages)
